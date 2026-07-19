@@ -1,0 +1,5 @@
+touch .nojekyll   # di Linux/Mac
+# atau buat file manual di Windows
+git add .nojekyll
+git commit -m "Tambahkan .nojekyll untuk menonaktifkan Jekyll"
+git push
